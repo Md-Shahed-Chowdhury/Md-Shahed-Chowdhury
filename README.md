@@ -5,93 +5,66 @@
 
 ## 🚀 About Me
 - 🎓 BSc in CSE at **United International University**
-- 💻 Passionate about building **full stack web & mobile applications**
-- 🔌 Strong interest in **IoT systems and real-world automation**
-- 🌱 Currently exploring **Web, App Development, IoT & UI/UX (Figma)**
+- 💻 Passionate about building full stack web & mobile applications  
+- 🔌 Interested in IoT and real-world automation  
+- 🌱 Exploring Web, App Development, IoT & UI/UX (Figma)  
 - 🎯 Target Role: **Full Stack Developer**
-
----
-
-## 🧠 What Makes Me Different
-I don’t just build projects — I try to connect **software with real-world problems**.  
-My interest in **IoT + Full Stack** allows me to think beyond typical web apps and move toward **smart systems and automation**.
-
-I enjoy solving problems where:
-- Software interacts with **hardware**
-- Systems work in **real-time**
-- Applications create **actual impact on people's lives**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- C++
-- JavaScript
+<p align="center">
 
-### ⚙️ Frameworks & Libraries
-- React
-- Node.js
-- Express.js
-- React Native
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,mongodb,mysql,firebase,tailwind,github,postman" />
+<br/><br/>
 
-### 🗄️ Databases
-- MongoDB
-- MySQL
+<img src="https://skillicons.dev/icons?i=react&theme=light" height="40"/> React Native
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40"/> Framer Motion
 
-### 🔧 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-
-### 🔌 Hardware & IoT
-- Arduino
-- ESP32
-- Raspberry Pi
+</p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### 🩸 Blood Care (Flagship Project)
-🔗 [View Project](https://github.com/Md-Shahed-Chowdhury/A-11-Blood-donation-Client.git)
-
-**Problem it solves:**  
-Managing blood donation manually is slow and inefficient. This platform helps connect donors and patients efficiently.
-
-**Tech Stack:**  
-MERN (MongoDB, Express, React, Node.js)
-
-**Key Highlights:**
-- User-friendly donation system
-- Organized donor-patient management
-- Real-world problem solving project
+| Project | Tech Stack | Live |
+|--------|-----------|------|
+| [Blood Care 🩸](https://github.com/Md-Shahed-Chowdhury/A-11-Blood-donation-Client.git) | MERN Stack | [Visit](https://a-11-blood-donation.netlify.app/) |
 
 ---
 
 ## 📈 Currently Working On
-- 📱 A mobile app project (React Native)
-- 🔌 Exploring **IoT + Web integration**
-- 🎨 Improving UI/UX skills using **Figma**
+- 📱 A mobile app (React Native)  
+- 🔌 IoT + Web integration  
+- 🎨 UI/UX design with Figma  
 
 ---
 
-## 🏆 Achievements & Activities
-- 🧠 Participated in multiple **hackathons**
-- 💡 Actively learning and building real-world projects
+## 🏆 Activities
+- 🧠 Participated in multiple hackathons  
+- 💡 Continuously building real-world projects  
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: **shahedchowdhury424@gmail.com**
-- 💼 LinkedIn: *(Add your link here)*  
-- 🌐 Portfolio: *(Add when ready)*
+<p align="center">
 
----
+<a href="mailto:shahedchowdhury424@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white"/>
+</a>
 
-## ⚡ Fun Fact
-I enjoy building systems where **code meets hardware** — turning ideas into something you can actually *see and interact with*.
+</p>
 
 ---
 
@@ -104,18 +77,5 @@ I enjoy building systems where **code meets hardware** — turning ideas into so
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Shahed-Chowdhury&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Shahed-Chowdhury/Md-Shahed-Chowdhury/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## ✨ Philosophy
-> "Build things that matter. Learn things that last."
 
 ---
