@@ -1,27 +1,21 @@
 <!-- ==================== HEADER ==================== -->
 
-<h1 align="center">Md Shahed Chowdhury</h1>
-<h3 align="center">🚀 Frontend Developer | IoT Enthusiast | Aspiring Full Stack Engineer</h3>
-
-
-<p align="center">
-  <a href="mailto:shahedchowdhury424@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white"/>
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/Md-Shahed-Chowdhury/Md-Shahed-Chowdhury/0645cff06d55714509a25fcafc01082db49f34b7/github-banner.svg" width="100%" />
 
 ---
 
-<!-- ==================== HERO SECTION ==================== -->
+## 📬 Contact Me
 
 <p align="center">
-  <img src="YOUR_BANNER_SVG_LINK_HERE" width="100%" />
+  <a href="mailto:shahedchowdhury424@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ---
@@ -82,6 +76,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Shahed-Chowdhury&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+
+
 
 ---
 
