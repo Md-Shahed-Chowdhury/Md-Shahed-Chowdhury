@@ -59,7 +59,7 @@
 ---
 
 ## 🏆 Activities
-
+- 🎓Undergraduate Teaching Assistant at UIU
 - 🧠 Participated in multiple **hackathons**
 - 💡 Continuously building real-world projects
 
