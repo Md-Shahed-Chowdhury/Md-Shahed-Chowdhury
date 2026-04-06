@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="www.linkedin.com/in/mdshahedchowdhury">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
