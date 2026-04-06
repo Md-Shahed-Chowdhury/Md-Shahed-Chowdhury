@@ -11,11 +11,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mdshahedchowdhury">
+  <a href="https://www.linkedin.com/in/mdshahedchowdhury" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  
 </p>
 
 ---
